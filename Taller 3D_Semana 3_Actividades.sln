@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taller 3D_Semana 3_Activida
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taller 3D_Semana 3_Tarea 1", "..\Taller 3D_Semana 3_Tarea 1\Taller 3D_Semana 3_Tarea 1.csproj", "{46215969-18D5-46F1-AFC4-4FC9D3B70666}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejecutor", "..\Ejecutor\Ejecutor.csproj", "{1231E5F1-A773-4467-A89F-AEC59A6CF9A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{46215969-18D5-46F1-AFC4-4FC9D3B70666}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46215969-18D5-46F1-AFC4-4FC9D3B70666}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46215969-18D5-46F1-AFC4-4FC9D3B70666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1231E5F1-A773-4467-A89F-AEC59A6CF9A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1231E5F1-A773-4467-A89F-AEC59A6CF9A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1231E5F1-A773-4467-A89F-AEC59A6CF9A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1231E5F1-A773-4467-A89F-AEC59A6CF9A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
